@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "暗く黒く（Crack Clock） (Live)",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2025-12-14T10:10:13.301721Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暗く黒く",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_暗く黒く_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
