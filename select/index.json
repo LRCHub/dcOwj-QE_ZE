@@ -1,9 +1,153 @@
 {
   "version": 1,
-  "base_track": "暗く黒く（Crack Clock） (Live)",
+  "base_track": "暗く黒く",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2025-12-14T10:12:08.466466Z",
+  "createdAt": "2026-03-21T04:18:19.965935Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "暗く黒く",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_暗く黒く_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "暗く黒く",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_暗く黒く_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "暗く黒く - Twin Piano Live ver.",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_暗く黒く_-_Twin_Piano_Live_ver._ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "暗く黒く - Twin Piano Live ver.",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_暗く黒く_-_Twin_Piano_Live_ver._ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "暗く黒く",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_暗く黒く_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "暗く黒く",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_暗く黒く_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "暗く黒く(Twin Piano Live Version) - Darken (Twin Piano Live Version)",
+      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_暗く黒く(Twin_Piano_Live_Version)_-_Darken_(Twin_Piano_Live_Version)_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "暗く黒く",
+      "artist": "ずっと真夜中でいいのに。ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_暗く黒く_ずっと真夜中でいいのに。ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "暗く黒く = Darken",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/09_暗く黒く_=_Darken_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "暗く黒く = Darken [Twin Piano Live Ver.] 2020.12.17",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/10_暗く黒く_=_Darken_[Twin_Piano_Live_Ver.]_2020.12.17_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "暗く黒く(Twin Piano Live Version) - Darken (Twin Piano Live Version)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_暗く黒く(Twin_Piano_Live_Version)_-_Darken_(Twin_Piano_Live_Version)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "暗く黒く - Darken",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/12_暗く黒く_-_Darken_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "暗く黒く (昏暗而漆黑)",
+      "artist": "ずっと真夜中でいいのに。 (永远是深夜有多好｡)",
+      "has_synced": true,
+      "path": "select/13_暗く黒く_(昏暗而漆黑)_ずっと真夜中でいいのに。_(永远是深夜有多好。).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『暗く黒く』MV（ZUTOMAYO – DARKEN）",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/14_ずっと真夜中でいいのに。『暗く黒く』MV(ZUTOMAYO_–_DARKEN)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "暗く黒く(強) - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/15_暗く黒く(強)_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "暗く黒く(強)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/16_暗く黒く(強)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "暗く黒く",
+      "artist": "Video • ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/17_暗く黒く_Video_•_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "暗く黒く(Twin Piano Live ver․)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/18_暗く黒く(Twin_Piano_Live_ver.)_ずっと真夜中でいいのに。.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
@@ -11,6 +155,24 @@
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": false,
       "path": "select/pl_01_暗く黒く_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "暗く黒く",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/localdb_01_暗く黒く_ずっと真夜中でいいのに。.lrc",
+      "repo_name": "Al_9DytnKnY"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "暗く黒く",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/localdb_02_暗く黒く_ずっと真夜中でいいのに。.txt",
+      "repo_name": "dcOwj-QE_ZE"
     }
   ]
 }
