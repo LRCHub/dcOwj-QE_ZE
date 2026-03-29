@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "暗く黒く",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2026-03-21T04:18:51.603642Z",
+  "createdAt": "2026-03-29T10:40:23.416231Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -163,16 +163,16 @@
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": true,
       "path": "select/localdb_01_暗く黒く_ずっと真夜中でいいのに。.lrc",
-      "repo_name": "Al_9DytnKnY"
+      "repo_name": "dcOwj-QE_ZE"
     },
     {
       "id": "localdb_2",
       "source": "localdb",
       "title": "暗く黒く",
       "artist": "ずっと真夜中でいいのに。",
-      "has_synced": false,
-      "path": "select/localdb_02_暗く黒く_ずっと真夜中でいいのに。.txt",
-      "repo_name": "dcOwj-QE_ZE"
+      "has_synced": true,
+      "path": "select/localdb_02_暗く黒く_ずっと真夜中でいいのに。.lrc",
+      "repo_name": "Al_9DytnKnY"
     }
   ]
 }
